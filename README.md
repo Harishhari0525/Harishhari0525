@@ -2,8 +2,7 @@
 
 **Harishhari0525/Harishhari0525** is a ✨ _special_ ✨ repository.
 
-
-Accomplished IT professional with 4 years of experience in IT infrastructure management, specializing in Oracle SQL and Unix environments. Proven ability to deliver high-quality technical support and innovative automation solutions.
+Infosys Ltd. | Oct 2020 - Present
 
 #### Experience Highlights:
 - **Senior Associate Consultant at Infosys Ltd — Charles Schwab (July 2023 – Present)**:
@@ -23,15 +22,9 @@ Accomplished IT professional with 4 years of experience in IT infrastructure man
 #### Certifications:
 - Google Certified Associate Cloud Engineer
 - Google Cybersecurity Professional Certificate
-- Infosys Certified Front-End Web Developer
-- Infosys Certified Global Agile Developer
 
 #### Technical Skills:
 - Unix Shell Scripting, Python (Basics)
 - Oracle SQL, Oracle Database L1 Admin
 - Linux Admin, Control-M Monitoring
 - Tools: Toad, Putty, Splunk, AppDynamics, Jira
-
----
-
-This summary captures the key points from your resume and presents them concisely for your GitHub README page.
