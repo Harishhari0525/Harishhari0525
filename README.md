@@ -61,7 +61,7 @@ A production-ready app so robust, even my mother uses it (and she still calls CD
 
 ## 🌐 Let's Connect
 
-- [LinkedIn](https://linkedin.com/harish-ummadisetty) – Come for the resume, stay for the tech memes
+- [LinkedIn](https://www.linkedin.com/in/harish-ummadisetty/) – Come for the resume, stay for the tech memes
 
 ---
 
