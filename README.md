@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>Tech Enthusiast | Application Support Engineer | Coffee-Powered Problem Solver</b>
+  <b>Tech Enthusiast | Software Engineer | Coffee-Powered Problem Solver</b>
 </p>
 
 ---
