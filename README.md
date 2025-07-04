@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-Hey! I'm Harish, a professional Application Support Engineer by day, Vibe Coder by night, and a full-time <strike>meme</strike> tech enthusiast 24/7.
+Hey! I'm Harish, a professional Software Engineer by day, Vibe Coder by night, and a full-time <strike>meme</strike> tech enthusiast 24/7.
 
 When I'm not fighting production fires or explaining to users that "turning it off and on again" is a legitimate troubleshooting step, I'm usually:
 
